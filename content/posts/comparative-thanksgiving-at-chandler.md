@@ -4,7 +4,7 @@ subtitle: 🦃🥔🍎 🥧🍗🇹🇷
 category:
   - Special announcements
 author: Eduardo
-date: 2020-07-21T19:33:05.862Z
+date: 2018-11-20T18:33:05.862Z
 featureImage: /uploads/special.jpg
 ---
 It's that time of the year again! When Americans get together with family to be thankful for... [the natives not killing the pilgrims back in the day so that they could return the favour](https://news.nationalgeographic.com/2015/11/151121-first-thanksgiving-pilgrims-native-americans-wampanoag-saints-and-strangers/)? Makes you wonder if the Latin America should celebrate the [naivety and poor bellicosity of the Aztecs](https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire).
