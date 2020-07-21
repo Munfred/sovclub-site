@@ -11,8 +11,6 @@ This past week, representatives from all of Earth’s major uncontacted tribes g
 
 While the work of organizing a group of mutually hostile and mutually unintelligible hunter-gatherers might seem as difficult as mammoth-herding, real progress was made! The bright spot of the conference came when the delegates all decided to express their feelings to the wider world via the cooler of the world’s two universal languages, music. (Upon unanimous consent at the conference, it was resolved that the world’s other universal language, math, *[is not in fact, universal.](https://slate.com/human-interest/2013/10/piraha-cognitive-anumeracy-in-a-language-without-numbers.html)* Starting with a slightly melancholy track from a hard-rocking group, this unprecedented agglomeration of isolated and transiently-unarmed peoples from across the globe came together (with the help of a songwriting artificial neural network*) to express the deep existential peculiarities of their world. A transcript follows.
 
-
-
 ***[Melody link](https://www.youtube.com/watch?v=IgdaBdgoqv0)***
 
 **Lyrics**:
@@ -24,8 +22,6 @@ While the work of organizing a group of mutually hostile and mutually unintellig
 *We came here for that abstract notion:*
 
 *Guaranteed Sovereignty!*
-
-
 
 *We have a dense forest on this island*
 
@@ -43,8 +39,6 @@ While the work of organizing a group of mutually hostile and mutually unintellig
 
 *If literate, we’d write [“Don’t bother me!”](https://en.wikipedia.org/wiki/Uncontacted_peoples#South_America)*
 
-
-
 *[I’m all lost in Brazil’s rainforest.](https://en.wikipedia.org/wiki/Uncontacted_peoples#/media/File:%C3%8Dndios_isolados_no_Acre_3.jpg)*
 
 *[I can no longer hunt happily](https://en.wikipedia.org/wiki/Uncontacted_peoples#/media/File:%C3%8Dndios_isolados_no_Acre_3.jpg).*
@@ -53,23 +47,13 @@ While the work of organizing a group of mutually hostile and mutually unintellig
 
 *Guaranteed Sovereignty!*
 
-
-
 \*The conference participants wanted the neural net to express their feelings further, but we couldn’t get enough compute time to train it properly (it just kept spitting out slight variations on “*[Total Eclipse of the Heart](https://www.youtube.com/watch?v=lcOxhH8N3Bo)*”), so we stopped here.
-
-
-
-
-
-
 
 Everyone who could speak English at the conference (meaning none of the intended participants) spent most of their time discussing this article from Foreign Policy, *as we too shall do at Sovereignty Lounge, BBB B101 this Wednesday 6pm:*
 
 ***[The Right to Kill: Should Brazil keep its Amazon tribes from taking the lives of their children?](https://foreignpolicy.com/2018/04/09/the-right-to-kill-brazil-infanticide/)***
 
 These complete nerds pondered the issues it raised, such as what moral standards (if any) the larger world should place upon uncontacted tribes and, in general, what the most ethical way is to interact with people whose defining feature is precisely their lack of interaction with you. Swirling around those philosophical black holes were questions regarding the economic expediency of maintaining uncontacted tribes on reservations, and worries of unwittingly inflicting genocide upon them via disease, vice, or demoralization.
-
-
 
 Here’s this week’s discussion thread: [http://forum.​caltechsovereignty.club/t/mar-​20-discussion-uncontacted-​tribes-rajasthan-trip/71](http://forum.caltechsovereignty.club/t/mar-20-discussion-uncontacted-tribes-rajasthan-trip/71)
 
@@ -81,4 +65,4 @@ Mr. Bannon, Secretary (of State)
 
 
 
-PS: Exceptionally, this week we may \*try\* to restrict the bullshit to 20 minutes, as we’d also like to spend a few words on the Sovereignty trip idea being floated around and fleshed out by Raj to the suitably named *[Rajasthan](https://en.wikipedia.org/wiki/Rajasthan)* (land of Rajs, if my translation is correct).
+*PS: Exceptionally, this week we may \*try\* to restrict the bullshit to 20 minutes, as we’d also like to spend a few words on the Sovereignty trip idea being floated around and fleshed out by Raj to the suitably named [Rajasthan](https://en.wikipedia.org/wiki/Rajasthan) (land of Rajs, if my translation is correct).*
