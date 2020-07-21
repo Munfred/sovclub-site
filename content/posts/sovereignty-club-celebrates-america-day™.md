@@ -5,7 +5,7 @@ category:
   - Special announcements
 author: Eduardo
 date: 2019-07-04T21:00:00.000Z
-featureImage: /uploads/sovball.png
+featureImage: /uploads/special.jpg
 ---
 Today being Americans birthday, and this being a club about countries (full of people with no plans whatsoever), it was realized that this was opportune cause for impromptu celebration. Thus it was decided that:
 
