@@ -1,5 +1,5 @@
 ---
-title: Caltech Sovereignty Club this Wednesday 6pm at BBB B101 🚩
+title: POTATO
 subtitle: 🎉🌎🎊📜
 category:
   - Weekly Discussions
