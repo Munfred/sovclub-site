@@ -1,5 +1,5 @@
 ---
-title: Caltech Sovereignty Club this Wednesday 6pm
+title: TOMATOTATO
 subtitle: 🎉🌎🎊📜
 category:
   - Weekly Discussions
