@@ -1,5 +1,5 @@
 ---
-title: Free Speech
+title: Freedom of Speech!
 subtitle: 🆓 (as in 🍕) 💬 🗨️🗣️🗯️
 category:
   - Weekly Discussions
