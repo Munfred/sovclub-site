@@ -4,7 +4,7 @@ subtitle: 🍷🍻🍄🌿🚬💊🍬🍫
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2018-11-28T18:34:49.519Z
+date: 2018-11-28T14:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 Drugs! Who isn't interested in them? After all, isn't the meaning of life is the maximization of utility? As [Aldous Huxley once remarked](http://www.informationclearinghouse.info/article24712.htm):
