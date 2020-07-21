@@ -4,7 +4,7 @@ subtitle: 🌆🏙️🌇🏭🏭🏭🏭
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2020-07-21T19:26:51.567Z
+date: 2018-10-31T19:26:51.567Z
 featureImage: /uploads/sovball.png
 ---
 Hello aspiring Sovereigns!\
