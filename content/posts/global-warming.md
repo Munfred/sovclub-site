@@ -4,7 +4,7 @@ subtitle: 🔥📈🌏🍧💦🌊🏙️🤽
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2020-07-21T19:37:08.015Z
+date: 2019-11-06T16:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 There are many natural factors which influence climate on our precarious rock, such as changes in the [Earth’s tilt](https://en.wikipedia.org/wiki/Milankovitch_cycles), [major volcanic eruptions](https://en.wikipedia.org/wiki/Volcanic_winter) (most notably the [Krakatoa](https://en.wikipedia.org/wiki/Krakatoa) in recent memory), [the sun doing it's job](https://en.wikipedia.org/wiki/Solar_cycle), [that one thing that killed all the dinosaurs](https://en.wikipedia.org/wiki/Impact_winter), [America](https://en.wikipedia.org/wiki/Climate_change_in_the_United_States), and [that one fire that’s always been burning](https://www.youtube.com/watch?v=9p3DzUwxI0o) (in Mount Doom I believe. Or [the white house](https://foreignpolicy.com/2018/12/03/global-warming-will-set-fire-to-american-leadership/)).
