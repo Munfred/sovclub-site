@@ -4,7 +4,7 @@ subtitle: 🚩🎉🌎🎊📜
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2020-07-21T19:31:54.369Z
+date: 2018-11-14T15:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 What are nation states? Where do they come from? Where are they going to?
