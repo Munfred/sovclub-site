@@ -1,49 +1,48 @@
 ---
-title: "Caltech Sovereignty Club this Wednesday 6pm at BBB B101 "
+title: Sovereignty Club this Wednesday Oct 24, at pm on BBB B101
 subtitle: 🚩🎉🌎🎊📜
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2018-10-17T03:00:00.000Z
+date: 2018-10-24T03:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
-
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-|     |     |     |     |
-|     |     |     |     |
-
-Hello, fellow aspiring sovereigns. We're glad you joined us.
-
-\
-**Our meeting will be this Wednesday, October 17, at 6pm**
+Hello aspiring sovereigns! We'll be meeting this **Wednesday, October 24 at 6pm** on [Sovereignty Lounge](https://i.imgur.com/zQNZHyv.jpg), BBB B101 to discuss (among other things) this article on **[why countries don't sell pieces of themselves like they used to?](https://concurringopinions.com/archives/2012/06/the-market-for-sovereign-territory.html)**
 
 
 
-It will be on BBB B101, at the Sovereignty Lounge (aka [Neurotechers](http://neurotechers.caltech.edu/) lounge, with whom we have a [compact of free association](https://en.wikipedia.org/wiki/Compact_of_Free_Association)).\
-It's pretty easy to get there, it's at the bottom floor of Beckman Behavioral Biology (BBB) as shown in the picture below.
-
-![image.png](https://mail.google.com/mail/u/0?ui=2&ik=731b35a246&attid=0.1&permmsgid=msg-a:r-7426006514933737163&th=1667711f59bd4f0c&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ-jZG9fxk-a7PyajD7dGlwvTOPS0LFpgDjN70PN-YjuNumX1DrGhiXZDZLJ8Xw5QXoWykQUVcPg4xT7sGUzwUZHklV7tsQ7Rx7Ip4nLbOAa6b5rCeKko9hO5KI&disp=emb&realattid=ii_jna18t580)
+As a matter of fact the last time this happened was in 1916 when the US bought the [US Virgin Islands from the Danish](https://en.wikipedia.org/wiki/Treaty_of_the_Danish_West_Indies) (known until then as [Danish West Indies](https://en.wikipedia.org/wiki/Danish_West_Indies)). Over 100 years ago! [Does a common international law dies when a custom stops?](http://opiniojuris.org/2009/08/28/the-death-of-a-customary-rule-of-international-law/) Or could we see a revival of such activity?
 
 
 
-**We have 3 topics in our agenda:**
-
-1. **Introductions.** We're particularly curious to learn what youare interested on and topic ideas for the next meeting
-2. **Current international events**, where you can share anything interesting going on
-3. **Discussion** of this short article from Aeon about nation-states and city-states: [https://aeon.co/​essays/the-end-of-a-world-of-​nation-states-may-be-upon-us](https://aeon.co/essays/the-end-of-a-world-of-nation-states-may-be-upon-us)
+Turns out that over the past century, international consensus started coalescing around the [principle of self determination](https://en.wikipedia.org/wiki/Self-determination), which basically says that the peoples of a land are the ones that should choose on their sovereignty and international status. This does indeed stand in contrast with the scenarios where the parent nation (i.e. the central government) is unilaterally selling a piece of itself, as seems to have been the case on those land and sovereignty deals of the past.
 
 
 
-**Finally, I would like to let you know about the [official](http://forum.caltechsovereignty.club/) ![🚩](https://mail.google.com/mail/e/1f6a9)****[Sovereignty​Forums](http://forum.caltechsovereignty.club/).**
-
-That's right. Not only we have a wonderful website at [https://caltechsovereignty.​club/](https://caltechsovereignty.club/), we have an \*independent\*, \*ad free\*, \*100% organic\*, \*fair trade\*,\*non-GMO\* and \*ethically sourced\* forum at [http://forum.​caltechsovereignty.club/](http://forum.caltechsovereignty.club/). If you sign up for the forum, it's configured by default to send an email with new posts and comments as they happen (you can change it to your preferences), and you can reply directly from your email so that you don't even need to use the actual forum to participate in discussions.\
-**So if you want to stay abreast of Sovereignty Club activities as discussions, you should [sign up for the](http://forum.caltechsovereignty.club/) ![🚩](https://mail.google.com/mail/e/1f6a9)****[Sovereignty Forums.](http://forum.caltechsovereignty.club/)**
-
-\
-Kindest regards,
+However, does self determination preclude sovereignty sales? Turns out Joseph Blocher, author of our discussion article, published last year a 47 page treatise on the possibility of [A Market For Sovereign Control](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3880&amp=&context=dlj&amp=&sei-redir=1&referer=https%253A%252F%252Fwww.google.com%252Furl%253Fq%253Dhttps%253A%252F%252Fscholarship.law.duke.edu%252Fcgi%252Fviewcontent.cgi%253Farticle%25253D3880%252526context%25253Ddlj%2526sa%253DD%2526source%253Dhangouts%2526ust%253D1540355923513000%2526usg%253DAFQjCNE5CB94ZtPxbAoSTjgjZVsKYq6BIA#search=%22https%3A%2F%2Fscholarship.law.duke.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D3880%26context%3Ddlj%22). It is quite informative (and speculative), packed with hundreds of footnotes (in fact I believe most of the text consists of footnotes).
 
 
 
-Eduardo![🚩](https://mail.google.com/mail/e/1f6a9)
+In short, they say that the current international system favours sovereignty changes only when a region is extremely mistreated (leading to violent secessionist movements deemed legitimate by the international community) or when peaceful and democratic secession is an option. But those who are only mildly mistreated, but would be better off under another government or on even their own, are left without recourse. The framework they propose aims to address this mid case, and as they put it:
+
+> *Such a market would provide a mechanism for welfare enhancing border changes while accommodating both the self determination rights of citizens and the sovereign rights of nations to control their territory. It would permit a mechanism for peaceful secession. And by encouraging cross-border competition among governments, it could improve democratic responsiveness and increase governments’ incentives to treat their citizens well.*
+
+
+
+Ah! Nothing like free markets to solve all of the worlds problems.
+
+
+
+You can share your thoughts ahead of the meeting on the discussion thread for this week's article: [http://forum.​caltechsovereignty.club/t/oct-​24-discussion-why-countries-​dont-sell-pieces-of-​themselves-like-they-used-to/​30](http://forum.caltechsovereignty.club/t/oct-24-discussion-why-countries-dont-sell-pieces-of-themselves-like-they-used-to/30)
+
+
+
+Kind Regards,
+
+
+
+Eduardo
+
+
+
+PS: I ordered the entirety of our allocated budget on the most delicious Mediterranean & Middle Eastern tea, cookies and sweets, but it will not arrive before Wednesday so trader Joe's cookies will have to do this week.
