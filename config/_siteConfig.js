@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Sovblog',
+  siteName: 'Caltech Sovereignty Club',
   tagline: 'To join our mailing list send an email to edaveiga@caltech.edu',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
