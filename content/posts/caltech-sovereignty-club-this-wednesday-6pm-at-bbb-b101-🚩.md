@@ -1,5 +1,5 @@
 ---
-title: POTATO
+title: Caltech Sovereignty Club this Wednesday 6pm
 subtitle: 🎉🌎🎊📜
 category:
   - Weekly Discussions
