@@ -26,6 +26,4 @@ But, at its core, what is it? According to Marx and Engels: "the theory of the C
 
 And with that, I look forward to a fun discussion this Wednesday!
 
-
-
-David
+\- David
