@@ -2,10 +2,10 @@
 title: The Kingdom of Hawaiʻi
 subtitle: " 👑🍍🌊⛱️⛰️🌋🌴🏝️🏖️"
 category:
-  - About Awake
-author: Daniel Kelly
-date: 2020-07-21T17:51:05.806Z
-featureImage: /uploads/contact-hero.jpg
+  - Weekly Discussions
+author: Eduardo
+date: 2019-06-19T21:00:00.000Z
+featureImage: /uploads/sovball.png
 ---
 [It all began about 13.8 billion years ago](https://www.youtube.com/watch?v=xuCn8ux2gbs). For an unwhile there was nothing, then there was stuff, and space itself expanded ([faster than light actually](https://www.space.com/33306-how-does-the-universe-expand-faster-than-light.html), carrying stuff around with it). Because stuff attracts stuff everything began coalescing, forming stars, which made different kinds of stuff that got spewed around when they died, [forming us and the earth](https://news.nationalgeographic.com/2015/01/150128-big-bang-universe-supernova-astrophysics-health-space-ngbooktalk/) as stuff coalesced again. Accretion and things falling on earth [release a lot of heat](https://www.scientificamerican.com/article/why-is-the-earths-core-so/), so the floor was lava for a while. Eventually the surface cooled down enough that water could remain liquid, [forming oceans](https://www.youtube.com/watch?v=_1LdMWlNYS4), with a crusty crust of solid plates [drifting on top of a molten core](https://en.wikipedia.org/wiki/Plate_tectonics), and magma from the earth’s mantle \*mostly\* coming out [where the plaques meet.](https://en.wikipedia.org/wiki/Ring_of_Fire)
 
