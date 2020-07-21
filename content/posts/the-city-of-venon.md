@@ -1,5 +1,5 @@
 ---
-title: "The City of Venon "
+title: "The City of Vernon "
 subtitle: 🌆🏙️🌇🏭🏭🏭🏭
 category:
   - Weekly Discussions
