@@ -4,7 +4,7 @@ subtitle: 🌎 🐱‍🐉
 category:
   - Weekly Discussions
 author: Tatyana
-date: 2020-07-21T22:13:51.254Z
+date: 2019-04-03T21:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 Hello fellow aspiring sovereigns. This Wednesday, April 3 at 6pm we’ll meet at BBB B101 with a slightly different meeting format. Here is the plan:
