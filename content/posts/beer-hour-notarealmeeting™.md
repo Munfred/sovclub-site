@@ -1,6 +1,6 @@
 ---
 title: beer hour (#notarealmeeting™)
-subtitle: "beer hour (#notarealmeeting™) "
+subtitle: 🥤🍸🥃⚗️🍷🍶
 category:
   - Special announcements
 author: Eduardo
