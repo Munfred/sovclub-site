@@ -4,7 +4,7 @@ subtitle: 🗣️📣 🎤 🧾💵🗳️⚖️🏛️
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2020-07-28T21:00:00.000Z
+date: 2019-08-28T21:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 How does government work? It depends! Which country are we talking about? And which level are we talking about? And then which state/province/demarcation/county/city are we talking about? It’s all a huge spaghetti mess! Almost like nobody designed it and was the result of historical struggle and random drift.
