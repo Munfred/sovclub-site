@@ -1,6 +1,6 @@
 ---
 title: Collapse of the Roman Republic 2/n
-subtitle: part 2 of 4? 5?
+subtitle: 🦅🏛️  part 2 of 4? 5?
 category:
   - Weekly Discussions
 author: Michael
