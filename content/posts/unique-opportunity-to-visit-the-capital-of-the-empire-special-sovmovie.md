@@ -3,7 +3,7 @@ title: "***UNIQUE*** opportunity to visit the capital of the Empire! +
   ***SPECIAL*** sovmovie "
 subtitle: 🌎🗽🏛️🎥🎞️
 category:
-  - Weekly Discussions
+  - Special announcements
 author: Eduardo
 date: 2019-10-25T22:30:00.000Z
 featureImage: /uploads/special.jpg
