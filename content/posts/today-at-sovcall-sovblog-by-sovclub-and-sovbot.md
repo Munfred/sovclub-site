@@ -4,7 +4,7 @@ subtitle: 📫🏤🏣🎍🗼🎎🎑🎐🎏
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2020-07-22T21:00:00.000Z
+date: 2020-04-22T21:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 Another week, another bunch of terrible things. [The liberals admit defeat](https://www.theatlantic.com/magazine/archive/2020/06/underlying-conditions/610261/). [China finishes the job.](https://hongkongfp.com/2020/04/20/explainer-beijings-5-day-crackdown-on-hong-kongs-opposition-during-covid-19/) [Modi can't do the job](https://www.bbc.com/news/world-asia-india-52360757). Trumponaro attends anti-democracy rally and [coughs on manifestants](https://www.youtube.com/watch?v=WvolmvQmmQg&feature=emb_logo) (like a lot lol). [Singapore has fallen](https://www.channelnewsasia.com/news/singapore/covid-19-singapore-moh-new-cases-apr-22-10000-dormitory-12665430).
