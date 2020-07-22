@@ -1,5 +1,5 @@
 ---
-title: "[Open Tech Club] The Regulation and Legislation of Technology"
+title: " [Open Tech Club] The Regulation and Legislation of Technology"
 subtitle: 💾
 category:
   - Special announcements
