@@ -4,7 +4,7 @@ subtitle: ⚗🔬💉☣️😷🌡☠️⚰️
 category:
   - Weekly Discussions
 author: Eduardo & Michael
-date: 2020-07-21T21:00:00.000Z
+date: 2020-03-11T21:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 At Sovereignty Club, we try to draw inspiration for our discussion topics from something other than current events (that’s what bullshit time is there for anytime). But sometimes you can’t avoid it (and viruses today seem to be coming in both analog and digital format..), so we try to tackle things from a more, you know, erudite, perspective. Luckily for us Michael is not only an expert in astronomy and the Roman Empire, he’s also watched a ton of [online classes on epidemics](https://www.youtube.com/playlist?list=PL7C32775F0529BFEF) and stuff.
