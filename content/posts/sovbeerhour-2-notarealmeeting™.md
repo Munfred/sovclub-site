@@ -23,7 +23,7 @@ So! In a stroke of genius, I cajoled Ollie into attending sovcall on Wednesday, 
 
 
 
-But! Tonight we just bullshit. Yesterday has been quite a day in bananaland (that's what the ![🍌](https://mail.google.com/mail/e/1f34c)in the title are paying homage to) and I'm itching to tell people about it. Join us in the link below at 6PM cartime, 8PM indiantime, 9PM puritantime, 10PM bananantime, 9AM Sunday duriantime, 6:30AM bollywoodtime (ok no yeah I don't think raj is coming today, sadly)
+But! Tonight we just bullshit. Yesterday has been quite a day in bananaland (that's what the 🍌 in the title are paying homage to) and I'm itching to tell people about it. Join us in the link below at 6PM cartime, 8PM indiantime, 9PM puritantime, 10PM bananantime, 9AM Sunday duriantime, 6:30AM bollywoodtime (ok no yeah I don't think raj is coming today, sadly)
 
 
 
