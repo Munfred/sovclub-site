@@ -1,5 +1,5 @@
 ---
-title: " Sovcall "
+title: " Wherever you are: Sovcall "
 subtitle: 🗣️💻🤙📞📱🎤
 category:
   - Weekly Discussions
