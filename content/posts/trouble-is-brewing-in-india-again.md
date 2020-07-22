@@ -4,7 +4,7 @@ subtitle: ⚠️ ☢💣⚛️💥🤯☠
 category:
   - Weekly Discussions
 author: Eduardo and Raj
-date: 2020-07-22T00:03:48.153Z
+date: 2019-08-07T21:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 # Sovereignty Club, Episode XXXVIII.4 *: The Return of the Raj
