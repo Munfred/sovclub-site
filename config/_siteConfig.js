@@ -22,10 +22,6 @@ export default {
       name: 'About',
       link: '/about'
     },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
