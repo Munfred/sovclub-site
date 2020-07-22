@@ -1,10 +1,10 @@
 ---
-title: pen Tech Club] The Regulation and Legislation of Technology
+title: "[Open Tech Club] The Regulation and Legislation of Technology"
 subtitle: 💾
 category:
   - Special announcements
 author: "Eduardo "
-date: 2020-07-22T00:25:18.327Z
+date: 2019-10-07T21:00:00.000Z
 featureImage: /uploads/special.jpg
 ---
 **tl;dr** We were gonna do bioengineering this week, but Dylan is way too busy with classes, so he let Eduardo take over this meeting. Hence, the enormous email, and the emojis.
