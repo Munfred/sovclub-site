@@ -12,15 +12,9 @@ featureImage: /uploads/sovball.png
 \
 \*\**BIG DISCLAIMER: My friends at home have requested that I send them a video of my presentation, so if anyone has an issue with this, please let me know ahead of time.
 
-
-
 I'm sure you all want to know about that epic journey an abandoned orphan went through to amass an army large enough to conquer a nation, or that time we dabbled in building a democratic monarchy, or the shadow government that took over a kingdom just to get some tax benefits... but according to [an old post on the forums](https://forum.caltechsovereignty.club/t/june-19-the-kingdom-of-hawai-i/109), you've heard it all before so I'm not even gonna bother.
 
-
-
 This Wednesday, I'll be talking about what really defined Hawaii throughout most of its time as a kingdom (and territory of the United States), its economy. And also memes. A lot of memes. I have more memes than slides. Send help.
-
-
 
 Hawaii's major industries included:
 
@@ -40,8 +34,22 @@ And of course we'll answer the most important question, the fuck is a Haole? As 
 
 **Wednesday at 6 pm in Behavioral Biology Building B101**.
 
-
-
 A Hui Ho,
 
 Kenny Thai
+
+- - -
+
+*One month later:*\
+\
+Residents of the world,
+
+
+
+At long last, I turned that presentation I gave over a month ago [into a YouTube video](https://youtu.be/QPe0L__1mAI "https\://youtu.be/QPe0L\_\_1mAI").
+
+
+
+~~Remember to Like and Subscribe!~~
+
+Kenny
