@@ -4,7 +4,7 @@ subtitle: ⬛ ◼️ ◾▪️ 🗳 = (∑√cᵢ)² ▫️◽ ◻️ ⬜
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2020-05-05T21:00:00.000Z
+date: 2020-05-06T21:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 Let us say (since, shockingly, some of you only show up for 🍻 🍕 and 🐂 💩) that you're an aspiring benevolent autocrat. Now that you have control over policies and the populace, how do you maximize utility? How do you know what is best for everyone?
