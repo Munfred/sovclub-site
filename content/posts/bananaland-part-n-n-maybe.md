@@ -4,7 +4,7 @@ subtitle: 🇧🇷🇧🇷🇧🇷🍹🍹🍊🍊🍍 🍌🍌🍌🍌🥑🙉�
 category:
   - Weekly Discussions
 author: "Brener & Eduardo "
-date: 2020-08-22T03:51:25.699Z
+date: 2020-08-19T21:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 Tonight we get to what is *\_maybe\_* the last part of our bananaland series. It will depend on how much time is spent berating everything on every slide.\
