@@ -5,7 +5,7 @@ category:
   - Special announcements
 author: Eduardo
 date: 2020-06-06T20:00:00.000Z
-featureImage: /uploads/special.jpg
+featureImage: /uploads/sovwatchball_wide.png
 ---
 During this week sovcall, I asked *what movie should we see on* sovwatch*?*We ended up, as one naturally does, gooling. *"best political movies"*, *"best international political movies"* and, eventually, naturally, of course, *"best movies about the UN"*. And, guess what? The internet - Wikipedia! - did not disappoint. We found the glorious wikipedia [Category on Films about the United Nations](https://en.wikipedia.org/wiki/Category:Films_about_the_United_Nations). What a treasure trove. With 31 entries, we didn't get around checking them all on the call. But boy, did it not disappoint.
 
