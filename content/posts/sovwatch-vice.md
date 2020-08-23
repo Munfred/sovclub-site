@@ -5,7 +5,7 @@ category:
   - Special announcements
 author: Eduardo
 date: 2020-06-20T20:00:00.000Z
-featureImage: /uploads/special.jpg
+featureImage: /uploads/sovwatchball_wide.png
 ---
 Tonight at 5pm cartime at sovwatch we will be watching the movie [Vice](https://en.wikipedia.org/wiki/Vice_(2018_film)), which, I'm told, "Americans hate because it reminds them of a bad time", so maybe now it will remind us of a *better* time!
 
