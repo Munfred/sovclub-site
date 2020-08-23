@@ -5,7 +5,7 @@ category:
   - Special announcements
 author: Eduardo
 date: 2020-05-29T20:00:00.000Z
-featureImage: /uploads/special.jpg
+featureImage: /uploads/sovwatchball_wide.png
 ---
 Following a great idea from this week’s sovcall, I want to invite everyone for sovwatch this Saturday at 5pm cartime: watching a movie together apart using Netflix Party to sync streams. Get it set up here: <https://www.netflixparty.com/>. If you want to participate let me know, so we don’t get started without you.
 
