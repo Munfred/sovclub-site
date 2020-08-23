@@ -5,7 +5,7 @@ category:
   - Special announcements and events
 author: Eduardo
 date: 2020-08-08T20:00:00.000Z
-featureImage: /uploads/special.jpg
+featureImage: /uploads/sovwatchball_wide.png
 ---
 Following our bananaland series, tonight we'll watch a 2019 Netflix production that is representative of banana leftism: The Edge of Democracy. 
 
