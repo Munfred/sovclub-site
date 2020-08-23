@@ -5,7 +5,7 @@ category:
   - Special announcements
 author: Eduardo
 date: 2020-07-11T20:00:00.000Z
-featureImage: /uploads/special.jpg
+featureImage: /uploads/sovwatchball_wide.png
 ---
 Last week Michael regaled us with the story of Tiberius Gracchus and Gaius Gracchus , roman brothers who *were murdered by a Senatorial mob--either because they were patriotic citizens who wanted to give food and land to Rome's poor, or because they were dangerous demagogues aiming at nothing less than kingship, depending on your perspective.*
 
