@@ -5,7 +5,7 @@ category:
   - Special announcements and events
 author: Eduardo
 date: 2020-08-01T20:00:00.000Z
-featureImage: /uploads/special.jpg
+featureImage: /uploads/sovwatchball_wide.png
 ---
 Sorry for the extra late notice, I was kidnapped to go on a cachaça quest. 
 
