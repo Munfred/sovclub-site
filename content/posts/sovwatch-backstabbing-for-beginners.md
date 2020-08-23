@@ -5,7 +5,7 @@ category:
   - Special announcements
 author: Eduardo
 date: 2020-06-13T20:00:00.000Z
-featureImage: /uploads/special.jpg
+featureImage: /uploads/sovwatchball_wide.png
 ---
 Apologies for not sending this early. I assume everyone is holed up at home in front of their computers anyway so probably not too much damage done. We'd like to have another sovwatch today around 5pm california time. **If you'd like to join ping me so that we don't forget you.** Here's the usual zoom link: [https://caltech.zoom.us/​j/4359087668](https://caltech.zoom.us/j/4359087668)
 
