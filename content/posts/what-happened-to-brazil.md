@@ -5,7 +5,7 @@ category:
   - Special announcements and events
 author: Eduardo
 date: 2020-08-15T20:00:00.000Z
-featureImage: /uploads/special.jpg
+featureImage: /uploads/sovwatchball_wide.png
 ---
 Tonight at 5pm cartime we will be watching the documentary *[What happened to Brazil?](https://www.bbc.com/reel/playlist/what-happened-to-brazil).* It is made by #Bestempire Broadcasting Corporation for an international audience, so in addition to being good, you'll probably be able to understand it.\
 \
