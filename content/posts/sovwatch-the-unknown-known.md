@@ -5,7 +5,7 @@ category:
   - Special announcements
 author: Eduardo
 date: 2020-06-27T20:00:00.000Z
-featureImage: /uploads/special.jpg
+featureImage: /uploads/sovwatchball_wide.png
 ---
 So it seems that, somewhat incidentally, there's been kind of..a theme to sovwatch? UN me, then Oil for Food, then Vice, which is about a guy that played a big role in invading Iraq and getting all the Oil for Food records safely stored to that they could be looked at and cause a massive scandal.
 
