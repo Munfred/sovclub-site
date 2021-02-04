@@ -4,7 +4,7 @@ subtitle: 📚📖⌛🌎 📹 🕒
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2021-02-04T01:59:45.224Z
+date: 2020-10-21T21:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 Last week we kinda by accident ran into [this video](https://www.youtube.com/watch?v=ymI5Uv5cGU4) that runs through every civilizational border change year by year, and everyone was very enthralled, and agreed it'd be a great idea to livestream our sovreactions on Twitch. \
