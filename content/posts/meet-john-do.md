@@ -1,5 +1,5 @@
 ---
-title: " Meet John Do"
+title: " Meet John Doe"
 subtitle: 🥜🦌🤪😳🍞🥖
 category:
   - sovwatch
