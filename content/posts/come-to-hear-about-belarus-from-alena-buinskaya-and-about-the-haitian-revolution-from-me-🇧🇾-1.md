@@ -1,5 +1,5 @@
 ---
-title: Haitian Revolution (2/2
+title: Haitian Revolution (2/2)
 subtitle: ☠️💀
 category:
   - Weekly Discussions
