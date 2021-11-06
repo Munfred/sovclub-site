@@ -4,7 +4,7 @@ subtitle: " 📚 📖 🐛 🍌🌎"
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2021-08-04T01:00:00.000Z
+date: 2021-08-05T01:00:00.000Z
 featureImage: /uploads/sovball.png
 ---
 Since Michael had to postpone his N-part-series on Haiti, I'm gonna take the opportunity for turning tomorrow's meeting into a literary critique meeting.
