@@ -1,7 +1,6 @@
 ---
-title: "Come to hear about Belarus from Alena Buinskaya and about the Haitian
-  Revolution from me 🇧🇾 "
-subtitle: "🇧🇾 "
+title: Haitian Revolution (2/2
+subtitle: ☠️💀
 category:
   - Weekly Discussions
 author: Michael
