@@ -1,6 +1,5 @@
 ---
-title: "🙈😡🤑🤐😵‍💫🤠Tonight: The Lawless Wasteland of OTC
-  Derivatives🤫😱🤬🚀📈📉💵💰0⃣8⃣🇺🇸"
+title: 🙈😡🤑🤐😵‍💫🤠The Lawless Wasteland of OTC Derivatives🤫😱🤬🚀📈📉💵💰0⃣8⃣🇺🇸
 subtitle: Brooksley Born and the Over the Counter derivatives market
 category:
   - Weekly Discussions
