@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Caltech Sovereignty Club',
-  tagline: 'Meetings Wednesdays 6PM cartime. To join our mailing list send an email to edaveiga@caltech.edu',
+  tagline: 'Meetings Wednesdays 6PM Pacific. Want to join?  Sign up <a href="https://forms.gle/ZnhRc3ZvjX7fhVwU8">here</a>',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
