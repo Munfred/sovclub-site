@@ -11,7 +11,7 @@
 							<h1> Mission: Possible </h1>
 							<p> People tend to think of countries and borders as immutable things that have been settled long ago.  <a href = "https://aeon.co/essays/the-end-of-a-world-of-nation-states-may-be-upon-us">But is that so?</a> Are individuals truly helpless agents in the tide of history and humankind dynamics? The Sovereignty Club aims to promote the understanding of how sovereignty and governance work in the context of global politics - so that you can actually make a difference. </p>
               <center>
-              <h4> To join our mailing list just email Eduardo at edaveiga@caltech.edu and ask to be added. </h4>
+              <h4> To join our club, sign up <a href="https://forms.gle/ZnhRc3ZvjX7fhVwU8">here</a>.</h4>
               <h4> We meet every Wednesday at 6PM PST (and occasionally also at other times). </h4>
               <h4> Join us! It's fun. </h4>
               </center>
