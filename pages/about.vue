@@ -2,19 +2,26 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      subtitle="A 501(c)3 nonprofit corporation, promoting understanding of the world and its people"
+      subtitle="Promoting understanding of the world and its people"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-							<h1> Mission: Possible </h1>
-							<p> People tend to think of countries and borders as immutable things that have been settled long ago.  <a href = "https://aeon.co/essays/the-end-of-a-world-of-nation-states-may-be-upon-us">But is that so?</a> Are individuals truly helpless agents in the tide of history and humankind dynamics? The Sovereignty Club aims to promote the understanding of how sovereignty and governance work in the context of global politics - so that you can actually make a difference. </p>
+	<h1>Who are we?</h1>
+	<p>Originally a Caltech student club founded by Eduardo Beltrame in 2018, Sovereignty Club is now a 501(c)3 nonprofit organization open to all.  Our mission is to promote understanding of the world and its people.  We hold weekly meetings where we invite guest speakers to talk about geopolitics, history, governance, and many other topics.  We also encourage extensive discussion and debate, both with the speakers and among members, so that different perspectives can be heard and considered.  Previous guest speakers have included foreign policy expert Joshua Keating, Caltech professor Tracy Dennison, and Charter Cities Institute founder Mark Lutter.</p>
+
               <center>
               <h4> To join our club, sign up <a href="https://forms.gle/ZnhRc3ZvjX7fhVwU8">here</a>.</h4>
+	      <h4> To help us out, <a href="https://www.patreon.com/sovereigntyclub/">donate to our Patreon</a>.</h4>
               <h4> We meet every Wednesday at 6PM PST (and occasionally also at other times). </h4>
               <h4> Join us! It's fun. </h4>
               </center>
+
+	<p>
+		<h1> Mission: Possible </h1>
+							<p> People tend to think of countries and borders as immutable things that have been settled long ago.  <a href = "https://aeon.co/essays/the-end-of-a-world-of-nation-states-may-be-upon-us">But is that so?</a> Are individuals truly helpless agents in the tide of history and humankind dynamics? The Sovereignty Club aims to promote the understanding of how sovereignty and governance work in the context of global politics - so that you can actually make a difference. </p>
+
 
 						<h2>Success(?) stories</h2>
 						<p>Nowadays, starting a country doesn't have to (necessarily) involve a bloody, protracted civil war. Just look at these testimonials from world leaders just like you! </p>

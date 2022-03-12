@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Caltech Sovereignty Club',
+  siteName: 'Sovereignty Club',
   tagline: 'Meetings Wednesdays 6PM Pacific. Want to join?  Sign up: https://forms.gle/ZnhRc3ZvjX7fhVwU8',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image

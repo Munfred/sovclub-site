@@ -1,7 +1,7 @@
 <template>
   <footer class="site-footer">
 
-    Made with 🚩🎉🌎🎊📜 by the Caltech Sovereignty Club.
+    Made with 🚩🎉🌎🎊📜 by Sovereignty Club.
   </footer>
 </template>
 
