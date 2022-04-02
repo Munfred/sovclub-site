@@ -1,5 +1,5 @@
 ---
-title: "Caltech-PCC joint event--New Sovereigns: A Field Report"
+title: "🏙️ Caltech-PCC joint event--New Sovereigns: A Field Report, by Tom Bell 🥧"
 subtitle: The start of an annual tradition!
 category:
   - Weekly Discussions
