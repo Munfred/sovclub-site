@@ -1,5 +1,5 @@
 ---
-title: 🔥Ukraine, then Russian Revolution 🇷🇺
+title: 🔥Ukraine, then Russian Revolution (2/3) 🇷🇺
 subtitle: Part 2/N
 category:
   - Weekly Discussions
