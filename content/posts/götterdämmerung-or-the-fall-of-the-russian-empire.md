@@ -1,5 +1,5 @@
 ---
-title: Götterdämmerung or the Fall of the Russian Empire
+title: Götterdämmerung or the Fall of the Russian Empire (1/3)
 subtitle: Part 1/N
 category:
   - Weekly Discussions
