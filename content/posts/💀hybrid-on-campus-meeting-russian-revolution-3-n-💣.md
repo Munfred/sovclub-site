@@ -1,5 +1,5 @@
 ---
-title: "💀Hybrid on-campus meeting: Russian Revolution (3/N) 💣"
+title: "💀Hybrid on-campus meeting: Russian Revolution (3/3) 💣"
 subtitle: The last of a series, in hindsight
 category:
   - Weekly Discussions
