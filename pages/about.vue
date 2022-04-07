@@ -13,7 +13,7 @@
 
               <center>
               <h4><a href="https://forms.gle/ZnhRc3ZvjX7fhVwU8">Join us!</a>  It's fun.</h4>
-	      <h4> To help us out, <a href="https://www.patreon.com/sovereigntyclub/">donate to our Patreon</a>.</h4>
+	      <h4> To help us out, donate to our <a href="https://www.patreon.com/sovereigntyclub/">Patreon</a> or <a href="https://www.paypal.com/donate/?hosted_button_id=YW7526DECGFXQ">Paypal</a>.</h4>
               <h4> We meet every Wednesday at 6PM PST (and occasionally also at other times). </h4>
               <h4> To contact us, email clubsovereignty at gmail dot com </h4>
               </center>
