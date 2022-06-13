@@ -4,7 +4,7 @@ subtitle: ...and how they change the world
 category:
   - Weekly Discussions
 author: Ben Landau-Taylor
-date: 2022-06-02T01:00:48.547Z
+date: 2022-06-09T01:00:48.547Z
 featureImage: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/JamesWattEngine.jpg/1024px-JamesWattEngine.jpg
 ---
 This Wednesday, come hear [Ben Landau-Taylor](https://benlandautaylor.com/ "https\://benlandautaylor.com/") talk about [why it's crazy people who make new industries](https://palladiummag.com/2021/02/02/new-industries-come-from-crazy-people/ "https\://palladiummag.com/2021/02/02/new-industries-come-from-crazy-people/").  Ben is Senior Analyst at [Bismarck Analysis](https://www.bismarckanalysis.com/#/ "https\://www.bismarckanalysis.com/#/"), which "examines institutions, industries, and individuals on behalf of our clients".
