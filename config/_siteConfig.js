@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Sovereignty Club',
-  tagline: 'Meetings Wednesdays 6PM Pacific. Want to join?  Sign up: https://forms.gle/ZnhRc3ZvjX7fhVwU8',
+  tagline: 'Meetings Wednesdays 6PM Pacific. Want to join?  Sign up: http://eepurl.com/h4qWqv',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
