@@ -48,15 +48,15 @@ export default {
 
   // Newsletter Subscribe
   newsletter: {
-    on: false,
-    heading: 'Subscribe to Our Newsletter',
+    on: true,
+    heading: 'Subscribe to Our Mailing List',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
       on: true,
       formAction:
-        'https://club.us4.list-manage.com/subscribe/post?u=cb056f6ae74f9861425cc3b54&amp;id=97dada2702'
+        'https://club.us17.list-manage.com/subscribe/post?u=270ee32bd9a552ddae66fd4f9&amp;id=0546d5e9b5'
     },
     custom: {
       on: false,
