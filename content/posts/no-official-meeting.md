@@ -1,14 +1,14 @@
 ---
-title: No official meeting.
-subtitle: ☠️💀
+title: Georgism
+subtitle: 🔰🔰🔰 Georgism 🔰🔰🔰
 category:
   - Weekly Discussions
 author: Eduardo
-date: 2022-08-17T13:00:48.870Z
-featureImage: /uploads/sovball.png
+date: 2022-08-23T13:00:50.734Z
+featureImage: /uploads/unnamed-2-.png
 ---
-Due to a conflation of events, Michael is away from Caltech and Eduardo needs to run the show (remotely), but Eduardo cannot promise he can make it to the zoom at 6pm exactly this week, so he’d rather not hold an official meeting. He will probably pop in on the zoom around 6:30pm or so. You are more than welcome to hijack the zoom for your own nefarious purposes.
+**Georgism**
 
-Next week, on Wednesday August 24 at 6pm we will have James telling us about [Georgism](https://club.us17.list-manage.com/track/click?u=270ee32bd9a552ddae66fd4f9&id=8564b5c457&e=09f1ce99cf)! That is something you probably don’t want to miss!
+By James Tyrwhitt-Drake
 
-And by the way — we continue to search for people interested in taking over the club and host in person meeting at sovlounge, even if partially, even if for nefarious purposes! If interested Let Eduardo know at [veigabeltrame@gmail.com](mailto:veigabeltrame@gmail.com) — you can buy all the food you want, we will give you the club card! No reimbursement needed!
+Georgism, it’s the most elegant economic policy with the clunkiest possible name. What is it? Also known as the ‘Single Land Value Tax’, it is a proposal to completely rework our economy with a simple tweak: replace sales and income taxes with taxes on land (broadly defined to include both actual land and the natural commons). Why do this? It is claimed it would reduce income inequality, increase economic efficiency, prevent land speculation, allow workers to keep the value of their labour, distribute the benefits of public investment fairly, and promote efficient land use and development. In short, Georgism presents a solution to the tragedy of the commons that is implemented through market mechanisms. We will discuss the history of Georgism, the mechanisms and plausibility of its claims, and its possible future.
