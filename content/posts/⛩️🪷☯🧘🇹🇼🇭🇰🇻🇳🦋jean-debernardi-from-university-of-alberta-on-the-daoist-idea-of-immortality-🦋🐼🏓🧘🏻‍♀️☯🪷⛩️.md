@@ -5,7 +5,7 @@ subtitle: Everyone has to die...but perhaps not the Daoists?
 category:
   - Weekly Discussions
 author: Brener
-date: 2023-04-04T05:29:38.560Z
+date: 2023-04-05T05:29:38.560Z
 featureImage: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tao.svg/495px-Tao.svg.png
 ---
 <!--StartFragment-->
